@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Complex {
-    private double real;
+    private double real;                                //"this" is used to refer to the current object's instance variables
     private double imag;
 
     public Complex(double real, double imag) {
